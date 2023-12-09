@@ -18,7 +18,7 @@
 
 ## 참고 및 출처
 
-- **OPENCV 얼굴 인식**: [Face Detector Example](examples/face_detector/python/face_detector.ipynb)
+- **OPENCV 얼굴 인식**: [Face Detector Example](https://github.com/google/mediapipe/blob/master/docs/solutions/face_detection.md) 
 - **OPEN CV에서 파이썬 음성인식**: [Colin's Blog Post](https://colinch4.github.io/2023-10-17/14-11-51-897126-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-opencv%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8F%99%EC%98%81%EC%83%81%EC%97%90%EC%84%9C-%EC%9D%8C%EC%84%B1-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0)
 - **파이썬 소리 재생**: [Stack Overflow - Python Sound Playback](https://stackoverflow.com/questions/67408904/python-remove-file-after-playing-ffpyplayer)
 - **파이썬 음성변조**: [Velog Post](https://velog.io/@paulleelife/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%8C%EC%84%B1%EB%B3%80%ED%99%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
